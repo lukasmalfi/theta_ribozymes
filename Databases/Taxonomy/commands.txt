@@ -1,0 +1,16 @@
+conda create -n genomad -c conda-forge -c bioconda genomad
+
+
+
+#https://github.com/apcamargo/genomad
+
+
+genomad download-database .
+
+
+
+genomad end-to-end --cleanup /mnt/mnemo6/lukas/Python/ribozymes/genome/combined_v3/falsepositive/fourth/C/combined_all_viral_sequences_v2.fasta output genomad_db
+
+
+
+#full db: genomad end-to-end --cleanup /mnt/mnemo6/lukas/Python/ribozymes/genome/combined_v3/combined.fna output_full_db genomad_db
