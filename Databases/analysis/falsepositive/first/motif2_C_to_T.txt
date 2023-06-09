@@ -1,0 +1,11 @@
+h1 s1 h2 h3 s2 h4 s3 h3' h1' h4' s5 s6 h2'
+
+h1 0:0 GNNNNN*:*NNNNNY
+s1 0 N**********
+h2 0:1 *NNNNNN:NNNNNN*
+h3 0:0 NNN:NNN
+s2 0 T
+h4 0:0 NC:GN
+s3 0 NCG*Y
+s5 0 NNN**************
+s6 0 TNRA
