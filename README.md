@@ -9,4 +9,4 @@ Split into 3 major sections:
 
 -Metagenomic for all analysis on raw reads from over 400000 metagenomic samples.
 
--Joined: Combining all files to the final tables (S1 and S2), including analysis for unique number of ribozymes, sorting and naming of them.
+-Combined: Combining all files to the final tables (S1 and S2), including analysis for unique number of ribozymes, sorting and naming of them.
