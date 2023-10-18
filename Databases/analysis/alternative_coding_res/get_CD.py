@@ -1,8 +1,11 @@
+#Adapted from https://github.com/borgesadair1/AC_phage_analysis/releases/tag/v1.0.0
+
 #!/usr/bin/env python
 import subprocess
 import pandas as pd
 from Bio import SeqIO
 import argparse
+
 
 
 def eval_AC(cd4, cd11, cd15,Len_kb):
@@ -109,9 +112,6 @@ def main():
     merged_codes_df["pred_code"] = eval_AC(merged_codes_df["Code4_CD"].to_list(),merged_codes_df["Code11_CD"].to_list(),merged_codes_df["Code15_CD"].to_list(), merged_codes_df["Len_kb"].to_list()) 
 
     merged_codes_df.to_csv(out_dir + "/CD_analysis.csv", index = False)
-
-
-
 
 
 
