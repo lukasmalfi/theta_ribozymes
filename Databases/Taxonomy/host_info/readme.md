@@ -1,1 +1,1 @@
-This here is the file of tRNA assoaciated theta ribozymes with added phage and host taxonomy information.
+This here is the file of tRNA assoaciated theta ribozymes with added phage and host taxonomy information. This information was manually added from the respective metadata of the databases, where available.
