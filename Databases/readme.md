@@ -5,7 +5,7 @@ http://ftp.ebi.ac.uk/pub/databases/metagenomics/genome_sets/gut_phage_database/
 
 http://www.virusite.org/index.php?nav=download
 
-https://zenodo.org/record/641022
+https://zenodo.org/record/6410225
 
 https://portal.nersc.gov/MGV
 
