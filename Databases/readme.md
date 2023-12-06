@@ -16,3 +16,4 @@ https://datacommons.cyverse.org/browse/iplant/home/shared/iVirus/GOV2.0
 
 https://genome.jgi.doe.gov/portal/IMG_VR/IMG_VR.home.html
 
+https://progenomes.embl.de/data/repGenomes/progenomes3.contigs.representatives.fasta.bz2
