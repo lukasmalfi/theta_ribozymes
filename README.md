@@ -1,4 +1,4 @@
-# Discovery of Theta Ribozymes in Gut Phages–Implications for tRNA and Alternative Genetic Coding
+# Exploring the Role of HDV-Like Theta Ribozymes in tRNA-Based Recoding of Gut Phages
 
 
 All Code underlaying the discovery of theta ribozymes.
