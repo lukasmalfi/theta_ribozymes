@@ -1,4 +1,4 @@
-# Exploring the Role of HDV-Like Theta Ribozymes in tRNA-Based Recoding of Gut Phages
+# Identification of HDV-Like Theta Ribozymes Involved in tRNA-based Recoding of Gut Bacteriophages
 
 
 All Code underlaying the discovery of theta ribozymes.
